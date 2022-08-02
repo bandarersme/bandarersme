@@ -7,8 +7,7 @@
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
-- 📫 How to reach me: **brantlauro@gmail.com**
-
+- 📫 i'm currently working at [software costs](https://softwarecosts.com/) as a sofware developer
 - ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
 
 <h3 align="center">Connect with me:</h3>
